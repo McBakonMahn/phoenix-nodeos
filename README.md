@@ -9,3 +9,12 @@ Simple Operating System written in Node.js
 
 First, you need to make sure the dependencies are installed. You can check this if by running `npm i` in the shell.
 
+![Static Badge](https://img.shields.io/badge/newVersion-%23ff0000)
+![Static Badge](https://img.shields.io/badge/buildTools-green)
+
+
+
+First, you require the system. If your app is in the `sys` directory, use:
+```js
+const system = require('./system.js')
+```
