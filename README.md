@@ -18,3 +18,8 @@ First, you require the system. If your app is in the `sys` directory, use:
 ```js
 const system = require('./system.js')
 ```
+
+If the pats is in `ugc`, use:
+```js
+const system = require('./../sys/system.js')
+```
