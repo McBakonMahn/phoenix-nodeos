@@ -35,3 +35,5 @@ function start(param) {
 }
 ```
 
+
+## Functions
