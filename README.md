@@ -68,11 +68,17 @@ const c = system.sum(1, 5)
 The same process applies to:
 
 `sub` - substraction
+
 `mul` - multiplication
+
 `div` - division
+
 `sub` - substraction
+
 `exp` - exponentiation
+
 `mod` - modulo (finding the last digit of a number)
+
 
 
 
