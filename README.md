@@ -24,15 +24,15 @@ If the pats is in `ugc`, use:
 const system = require('./../sys/system.js')
 ```
 
-
 For making a variable, you use `const` which is built in Node.js.
 Example:
 ```js
 const variable = 30
 ```
-```js
+
 For making a function, you use `function` + function name followed by `(parameters)` then its content goes in `{}`
 Example:
+```js
 function start(param) {
    console.log(param);
 }
