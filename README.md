@@ -7,6 +7,8 @@ Simple Operating System written in Node.js
 
 # Building the OS
 
+Install [Node.js](https://www.google.com)
+
 First, you need to make sure the dependencies are installed. You can check this if by running `npm i` in the shell.
 
 ![Static Badge](https://img.shields.io/badge/newVersion-%23ff0000)
@@ -37,6 +39,11 @@ function start(param) {
 
 
 ## Functions
+
+![Static Badge](https://img.shields.io/badge/Beginning-green)
+![Static Badge](https://img.shields.io/badge/PhoenixAPI-blue)
+![Static Badge](https://img.shields.io/badge/Functions-red)
+
 
 After completing the steps above, you can use these functions:
 
