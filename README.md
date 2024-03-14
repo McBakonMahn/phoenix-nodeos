@@ -1,5 +1,6 @@
 # phoenix-nodeos
-![Static Badge](https://img.shields.io/badge/PhoenixNodeOS-v._1.0.1-green) ![Static Badge](https://img.shields.io/badge/npm-v10.2.3-red?style=flat)
+![Static Badge](https://img.shields.io/badge/PhoenixNodeOS-v._1.0.1-green) ![Static Badge](https://img.shields.io/badge/npm-v10.2.3-red?style=flat)![Static Badge](https://img.shields.io/badge/node.js-v20.0.0-blue)
+
 
 
 Simple Operating System written in Node.js
