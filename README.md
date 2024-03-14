@@ -95,5 +95,6 @@ system.inc(6) //replace inc with dec for decrement
 Assigning the returned value to a variable:
 
 ```js
-const c = system.inc(6) //replace inc with dec for decrement 
+const c = 6
+c = system.inc(c) //replace inc with dec for decrement  
 ```
