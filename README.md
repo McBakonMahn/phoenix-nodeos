@@ -37,3 +37,43 @@ function start(param) {
 
 
 ## Functions
+
+After completing the steps above, you can use these functions:
+
+`system.typeText()`
+
+**typeText** is used to display output in the console. Here is an example of using **typeText**:
+
+```js
+system.typeText("Hello World!")
+```
+
+
+`system.sum()`
+
+**sum** is used for calculating the sum of 2 numbers/values. Here is an example:
+
+Displaying the returned value in output:
+
+```js
+system.sum(1, 5)
+```
+Assigning the returned value to a variable:
+
+```js
+const c = system.sum(1, 5)
+```
+
+
+The same process applies to:
+
+`sub` - substraction
+`mul` - multiplication
+`div` - division
+`sub` - substraction
+`exp` - exponentiation
+`mod` - modulo (finding the last digit of a number)
+
+
+
+
