@@ -19,10 +19,7 @@ First, you require the system. If your app is in the `sys` directory, use:
 const system = require('./system.js')
 ```
 
-If the pats is in `ugc`, use:
-```js
-const system = require('./../sys/system.js')
-```
+If you use a custom directory for apps, you may need additional `Node.js` knowledge.
 
 For making a variable, you use `const` which is built in Node.js.
 Example:
