@@ -7,7 +7,7 @@ Simple Operating System written in Node.js
 
 # Building the OS
 
-Install [Node.js](https://www.google.com)
+Install [Node.js](https://nodejs.org)
 
 First, you need to make sure the dependencies are installed. You can check this if by running `npm i` in the shell.
 
