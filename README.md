@@ -80,6 +80,20 @@ The same process applies to:
 `mod` - modulo (finding the last digit of a number)
 
 
+`system.dec()`
 
+`system.inc()`
 
+**inc** (increment) and **dec** (decrement) are used to increase/decrease a number/value by 1. Example:
 
+Displaying the returned value in output:
+
+```js
+system.inc(6) //replace inc with dec for decrement
+```
+
+Assigning the returned value to a variable:
+
+```js
+const c = system.inc(6) //replace inc with dec for decrement 
+```
