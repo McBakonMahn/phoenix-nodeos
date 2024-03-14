@@ -32,5 +32,8 @@ const variable = 30
 ```
 For making a function, you use `function` + function name followed by `(parameters)` then its content goes in `{}`
 Example:
+function start(param) {
+   console.log(param);
+}
 ```js
 
