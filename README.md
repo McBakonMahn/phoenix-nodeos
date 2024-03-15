@@ -87,7 +87,7 @@ The same process applies to:
 
 `exp` - exponentiation
 
-`mod` - modulo (finding the last digit of a number with 10)
+`mod` - modulo (finding the last digit of a number using division and modulo 10)
 
 
 `system.dec()`
